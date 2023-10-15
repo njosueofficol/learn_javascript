@@ -3,7 +3,6 @@ function generateRandomQuadraticEquation() {
   const a = getRandomCoefficient();
   const b = getRandomCoefficient();
   const c = getRandomCoefficient();
-
   return { a, b, c };
 }
 
