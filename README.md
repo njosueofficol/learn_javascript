@@ -32,4 +32,4 @@ i'm going to cover the above course which will help deeply understand the next t
 vanilla javascript.
 
 # contact : email: njosueofficol@gmail.com
-i open to learn more... thank you!
+i'm open to learn more... thank you!
